@@ -1,1 +1,1 @@
-This is Ethan's "first" git project! (No joke...)
+Git repo for The Odin Project
